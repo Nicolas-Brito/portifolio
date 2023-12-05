@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+
+
+}
+#perfil{
+    width: 200px;
+    border-radius: 100px;
+}
+.box{
+    display:flex;
+    width: 80% ; 
+    justify-content: space-around;
+    background-color: darkblue;
+     margin: 4% auto;
+     padding: 1%;
+     align-items: center;
+
+
+}
+img{
+    width: 200px;
+}
+
+a{
+    background-color: blue;
+    padding: 2%;
+    color:azure;
+    border-radius: 50px;
+    font-size:25px;
+    text-decoration: none;
+
+    
+}
+h3{
+    font-size: 30px;
+    
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
